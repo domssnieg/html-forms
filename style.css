@@ -1,0 +1,40 @@
+body {
+    
+    margin: 0px;
+    padding-top: 60px;
+    color:rgb(75, 80, 83);
+    font-size: 18px;
+    background-color: white;
+    font-family: 'Quicksand', sans-serif;
+}
+
+h1{
+    font-size: 40px;
+    font-weight:400;
+    color: white;
+    margin-bottom:20px;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: rgb(45, 54, 61);
+    padding: 20px;
+    letter-spacing: 5px;
+    font-family: 'Oswald', sans-serif;
+}
+
+h3{
+    padding-top: 40px;
+    font-size: 200;
+}
+
+.row{
+    margin-top: 20x;
+    margin-bottom: 20px;
+}
+
+.column{
+    display: inline-block;
+    margin-right: 200px;
+}
+.enter{
+    margin-top: 20px;
+}
